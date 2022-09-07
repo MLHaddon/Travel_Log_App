@@ -1,0 +1,19 @@
+{
+  "name": "travel_log_app",
+  "version": "1.0.0",
+  "description": "An app designed to spit out detailed information about each state, based on census bureau data. All on a One-Page-Layout React/Express App.",
+  "main": "index.js",
+  "scripts": {
+    "test": "'nodemon \"./server_dir/server.js\"'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MLHaddon/Travel_Log_App.git"
+  },
+  "author": "MLH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MLHaddon/Travel_Log_App/issues"
+  },
+  "homepage": "https://github.com/MLHaddon/Travel_Log_App#readme"
+}
